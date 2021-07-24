@@ -1,0 +1,10 @@
+  name: Whereami
+  main: net.mcportal.riskyexpert.Main
+  version: 1.0
+  commands:
+    whereami:
+      description: Returns the name of the server.
+    whereami-reload:
+      description: Reloads config file.
+    whereami-set:
+      description: Modifies the server name.
